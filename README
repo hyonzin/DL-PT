@@ -1,0 +1,11 @@
+3.4 Classifying movie reviews: a binary classification example
+	영화 리뷰가 긍정적인지 부정적인지 분류
+
+3.5 Classifying newswires: a multiclass classification example
+	뉴스 기사의 카테고리(총 46가지)를 분류
+
+3.6 Predicting house prices: a regression example
+	집의 여러 수치(범죄율, 방 개수, 고속도로 접근성 등)을 통하여 집 값 예측
+
+
+프랑소와 숄레(François Chollet) - Deep Learning with Python
